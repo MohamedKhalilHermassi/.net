@@ -1,0 +1,4 @@
+C:\Users\Khalil\source\repos\AirportManagement\AM.UI.Console\obj\Debug\net7.0\AM.UI.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khalil\source\repos\AirportManagement\AM.UI.Console\obj\Debug\net7.0\AM.UI.Console.AssemblyInfoInputs.cache
+C:\Users\Khalil\source\repos\AirportManagement\AM.UI.Console\obj\Debug\net7.0\AM.UI.Console.AssemblyInfo.cs
+C:\Users\Khalil\source\repos\AirportManagement\AM.UI.Console\obj\Debug\net7.0\AM.UI.Console.csproj.CoreCompileInputs.cache
